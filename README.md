@@ -9,19 +9,19 @@ From Zero Repository for doing Python DevOps work
 ## Create a project scaffold
 
 Create development environment that is cloud-based
-
+==================================================
 ### Colab Notebook
-
 * This is an example of how to use [colab](https://github.com/noahgift/python-for-devops-may-2022/blob/main/getting_started_python.ipynb)
 
-### Github Codespaces
 
+### Github Codespaces
 Build out python project scaffold:
 
 * [Makefile](https://github.com/noahgift/python-for-devops-may-2022/blob/main/Makefile)
 * [requirements.txt](https://github.com/noahgift/python-for-devops-may-2022/blob/main/requirements.txt)
 * [test_library.py](https://github.com/noahgift/python-for-devops-may-2022/blob/main/test_devopslib.py)
 * [python_library](https://github.com/noahgift/python-for-devops-may-2022/tree/main/devopslib)
+*
 * Dockerfile
 * command-line-tool
 * Microservice
